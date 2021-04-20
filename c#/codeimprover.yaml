@@ -1,4 +1,4 @@
-#Configuration file CodeImprover Code Quality analytical engines
+#This is a Configuration file for CodeImprover Code Quality analytical engines
 #This codeimprover.yaml file is designed for working with duplication in source code written in C#
 #Please edit the configuration file to your needs and add it to your repository.
 #-----------------------------------------------------------------------------------------
