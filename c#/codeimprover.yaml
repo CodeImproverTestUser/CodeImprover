@@ -1,3 +1,9 @@
+#This codeimprover.yaml file is designed for working with source code in C#
+#Please edit the configuration to your needs
+#--------------
+#The repo codeimprover/codeimprover contains codeimprover.yaml files for other languages. 
+#If you create a codeimprover.yaml file for your language - please contribute it to the community via a fork and a pull request
+#just like any other open-source project.
 duplicationConfig:
   numberOfLinesToCompare: 7
   #Below patters are in regular expression
